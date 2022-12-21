@@ -453,13 +453,3 @@ button:hover,
 .button.button-xing:focus {
   filter: brightness(90%);
 }
-
-/* curriculum */
-.button.button-curriculum {
-  color: #ffffff;
-  background-color: #1da1f2;
-}
-.button.button-curriculum:hover,
-.button.button-curriculum:focus {
-  filter: brightness(90%);
-}
