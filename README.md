@@ -1,11 +1,5 @@
 # Currículo
 
-## Informações Pessoais
-Nome: Leonardo Marques
-Localização: São José, SC
-E-mail: leonardofloripa@gmail.com
-Telefone: +55 48 99614 5249
-
 ## Objetivo
 Procuro uma posição na área de tecnologia onde possa aplicar meus conhecimentos e habilidades para contribuir para o crescimento da empresa.
 
