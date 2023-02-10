@@ -1,4 +1,4 @@
-# Currículo
+# Personal Page
 
 ## Objetivo
 Procuro uma posição na área de tecnologia onde possa aplicar meus conhecimentos e habilidades para contribuir para o crescimento da empresa.
