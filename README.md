@@ -1,20 +1,21 @@
 # Personal Page
 
 ## Objetivo
-Procuro uma posição na área de tecnologia onde possa aplicar meus conhecimentos e habilidades para contribuir para o crescimento da empresa.
+Procuro uma posição na área de tecnologia onde possa aplicar meus conhecimentos e habilidades e contribuir para o crescimento.
 
 ## Experiência Profissional
+
 ### Trader Autônomo (2018-Presente)
-- Trader na B3 e de criptomoedas com foco em análise gráfica e de mercado.
+- Trader na B3 com foco em análise gráfica e mercado.
 
 ### Consultor de Vendas (2015-2018)
-- Atuei com vendas ativas, treinamento de novos colaboradores, elaboração de scripts para alavancagem de vendas e vendas de planos de internet, telefonia e TV.
+- Atuei com vendas ativas, treinamento de novos colaboradores, elaboração de scripts para alavancagem de vendas.
 
 ### Gerente (2011-2015)
 - Atuei nas relações comerciais e públicas, gestão administrativa e financeira, gestão de equipe, elaboração de relatórios e reuniões com parceiros e promotores.
 
 ## Formação
-- Cursando Ciência da Computação (2022-Presente) no IFC.
+- Ciência da Computação IFC.
 
 ## Habilidades
 - Conhecimento avançado em Windows e Linux.
